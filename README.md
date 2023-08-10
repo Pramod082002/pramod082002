@@ -1,3 +1,10 @@
+<kbd><a href="https://github.com/" target="_blank"> <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg"/> </a> </kbd>
+
+<table align="right"><tr><td>
+<img align="right"  src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif" width=350px >
+</td></tr></table>
+
+
 # 💫 About Me:
 🔭 I’m currently working on React projects<br>👯 I’m looking to collaborate on OpenSource projects<br>🌱 I’m currently learning MERN Stack<br>💬 How to reach me pramod082002@gmail.com<br>
 
